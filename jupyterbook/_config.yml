@@ -5,10 +5,10 @@
 
 #######################################################################################
 # Book settings
-title: "Winter 2025 ENGR131: Introduction to Programming for Engineers" # The title of the book
+title: "ISAF PFM DataFed Tutorial" # The title of the book
 author: Joshua C. Agar # The author of the book
 copyright: "2025" # Copyright year to be placed in the footer
-logo: ./_static/m3-logo.png # A path to the book logo for light mode
+logo: ./_static/ISAF_logo.png # A path to the book logo for light mode
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
