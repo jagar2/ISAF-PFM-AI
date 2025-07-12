@@ -29,6 +29,9 @@ only_build_toc_files: true
 bibtex_bibfiles:
   - references.bib
 
+launch_buttons:
+  colab: true
+
 # Information about where the book exists on the web
 repository:
   url: https://github.com/DrexelEngineering/ENGR131W25 # Online location of your book
@@ -38,16 +41,10 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  announcement: "Final Exam: Monday, March 17th, 2025, 1-3 PM @ Main Auditorium"
   use_issues_button: true
   use_repository_button: true
   static_path:
     - _static
   css:
     - theme.css
-  logo:
 
-# Adds colab button to book
-launch_buttons:
-  colab: true
-  # thebe: true
